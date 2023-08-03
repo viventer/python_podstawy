@@ -1,0 +1,2 @@
+Do odwrócenia wyrazu możesz użyć wycinku, przypomnij sobie co możemy 
+podać jako ostatnią liczbę i pamiętaj że może być ujemna.
